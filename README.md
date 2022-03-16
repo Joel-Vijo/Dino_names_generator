@@ -1,1 +1,1 @@
-# MNIST-digit-classifier
+# Dino_names_generator
